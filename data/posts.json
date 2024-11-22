@@ -1,0 +1,224 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Understanding React Hooks: A Complete Guide 🚀",
+      "summary": "Dive into the world of React Hooks, covering useState, useEffect, and custom hooks to enhance your functional components.",
+      "author": "Alice Johnson",
+      "author_image": "https://i.pravatar.cc/48?u=933372",
+      "author_role": "Frontend Developer 💻",
+      "category": "React",
+      "publishedDate": "2024-11-21"
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with TypeScript in React 📘",
+      "summary": "A beginner's guide to integrating TypeScript with React for type-safe applications.",
+      "author": "Bob Williams",
+      "author_image": "https://i.pravatar.cc/48?u=499476",
+      "author_role": "Software Developer 🧑‍💻",
+      "category": "TypeScript",
+      "publishedDate": "2024-10-10"
+    },
+    {
+      "id": 3,
+      "title": "Top 10 CSS Tricks for Modern Web Design 🎨",
+      "summary": "Learn CSS tricks and techniques to enhance your web design, including Flexbox, Grid, animations, and more.",
+      "author": "Charlie Kim",
+      "author_image": "https://i.pravatar.cc/48?u=299371",
+      "author_role": "UI/UX Designer 🖌️",
+      "category": "CSS",
+      "publishedDate": "2024-09-15"
+    },
+    {
+      "id": 4,
+      "title": "Exploring Node.js for Backend Development ⚙️",
+      "summary": "Node.js is a powerful tool for building scalable backend applications. This article covers the essentials to get started.",
+      "author": "Diana Garcia",
+      "author_image": "https://i.pravatar.cc/48?u=199478",
+      "author_role": "Backend Developer 🔧",
+      "category": "Node.js",
+      "publishedDate": "2024-08-01"
+    },
+    {
+      "id": 5,
+      "title": "The Benefits of Using Context API in React 🕸️",
+      "summary": "Understand when and how to use the Context API for managing global state in your React applications.",
+      "author": "Ethan Brown",
+      "author_image": "https://i.pravatar.cc/48?u=399475",
+      "author_role": "React Developer 🌐",
+      "category": "React",
+      "publishedDate": "2024-07-20"
+    },
+    {
+      "id": 6,
+      "title": "Deploying Web Apps with Docker 🐳",
+      "summary": "Learn how to deploy web applications using Docker and containerization best practices.",
+      "author": "Peter Clark",
+      "author_image": "https://i.pravatar.cc/48?u=324769",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "DevOps",
+      "publishedDate": "2023-08-05"
+    },
+    {
+      "id": 7,
+      "title": "Building REST APIs with Express.js 🛠️",
+      "summary": "A comprehensive guide to building scalable REST APIs using Express.js and Node.js.",
+      "author": "George Kim",
+      "author_image": "https://i.pravatar.cc/48?u=599471",
+      "author_role": "Backend Developer 🔨",
+      "category": "Node.js",
+      "publishedDate": "2024-05-15"
+    },
+    {
+      "id": 8,
+      "title": "State Management with Redux in React 🔄",
+      "summary": "Learn the basics of Redux for state management in complex React applications.",
+      "author": "Hannah Martin",
+      "author_image": "https://i.pravatar.cc/48?u=102375",
+      "author_role": "Frontend Developer 🖥️",
+      "category": "React",
+      "publishedDate": "2024-04-20"
+    },
+    {
+      "id": 9,
+      "title": "Introduction to TypeScript Decorators ✨",
+      "summary": "Understand how TypeScript decorators work and how they can be used to add metadata to classes and properties.",
+      "author": "Ivy Zhang",
+      "author_image": "https://i.pravatar.cc/48?u=123671",
+      "author_role": "Software Developer 🛠️",
+      "category": "TypeScript",
+      "publishedDate": "2024-03-05"
+    },
+    {
+      "id": 10,
+      "title": "CSS Grid vs. Flexbox: Which to Use? 📏",
+      "summary": "A breakdown of CSS Grid and Flexbox, their differences, and when to use each layout module.",
+      "author": "Jack White",
+      "author_image": "https://i.pravatar.cc/48?u=483271",
+      "author_role": "UI Designer 🎨",
+      "category": "CSS",
+      "publishedDate": "2024-02-18"
+    },
+    {
+      "id": 11,
+      "title": "Mastering Asynchronous JavaScript ⏳",
+      "summary": "An in-depth guide to mastering asynchronous programming in JavaScript with promises, async/await, and callbacks.",
+      "author": "Kate Rivera",
+      "author_image": "https://i.pravatar.cc/48?u=837261",
+      "author_role": "Full Stack Developer 🌐",
+      "category": "JavaScript",
+      "publishedDate": "2024-01-10"
+    },
+    {
+      "id": 12,
+      "title": "Understanding SQL vs. NoSQL Databases 🗄️",
+      "summary": "Explore the differences between SQL and NoSQL databases and when to use each type.",
+      "author": "Liam Patel",
+      "author_image": "https://i.pravatar.cc/48?u=647581",
+      "author_role": "Database Administrator 🛠️",
+      "category": "Databases",
+      "publishedDate": "2023-12-22"
+    },
+    {
+      "id": 13,
+      "title": "React Component Lifecycles Explained 🔍",
+      "summary": "Learn about the different lifecycle methods of React components and how to use them effectively.",
+      "author": "Mia Chen",
+      "author_image": "https://i.pravatar.cc/48?u=726347",
+      "author_role": "Frontend Engineer 💡",
+      "category": "React",
+      "publishedDate": "2023-11-15"
+    },
+    {
+      "id": 14,
+      "title": "Using MongoDB with Mongoose 🌱",
+      "summary": "A practical guide to setting up MongoDB with Mongoose and creating data models for your application.",
+      "author": "Noah Scott",
+      "author_image": "https://i.pravatar.cc/48?u=946721",
+      "author_role": "Backend Developer 🗄️",
+      "category": "MongoDB",
+      "publishedDate": "2023-10-08"
+    },
+    {
+      "id": 15,
+      "title": "CSS Animations and Transitions for Beginners 🎥",
+      "summary": "Add dynamic effects to your web pages with CSS animations and transitions.",
+      "author": "Olivia Tran",
+      "author_image": "https://i.pravatar.cc/48?u=113476",
+      "author_role": "Web Designer 🎨",
+      "category": "CSS",
+      "publishedDate": "2023-09-12"
+    },
+    {
+      "id": "93ce",
+      "title": "reading",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "tech",
+      "publishedDate": "2023-08-05",
+      "summary": "hello",
+      "author_image": "https://i.pravatar.cc/48?=258b3ef4-2921-423a-9594-fc9c472a7479"
+    },
+    {
+      "id": "c8f6",
+      "title": "",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "",
+      "publishedDate": "2023-08-05",
+      "summary": "hello",
+      "author_image": "https://i.pravatar.cc/48?=6d6edca0-728b-474a-be4b-3245ce4967ed"
+    },
+    {
+      "id": "e163",
+      "title": "timmmm",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "fff",
+      "publishedDate": "2023-08-05",
+      "summary": "rrr",
+      "author_image": "https://i.pravatar.cc/48?=f9f8a7c6-eeb2-42cb-b280-2595cad33b9e"
+    },
+    {
+      "id": "5b2d",
+      "title": "",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "",
+      "publishedDate": "2023-08-05",
+      "summary": "rrr",
+      "author_image": "https://i.pravatar.cc/48?=09a93d54-24a4-43ac-ba61-212f2781a53e"
+    },
+    {
+      "id": "e112",
+      "title": "",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "",
+      "publishedDate": "2023-08-05",
+      "summary": "rrr",
+      "author_image": "https://i.pravatar.cc/48?=7b2a3c4b-65cb-4ab8-ae99-3c0f47dae801"
+    },
+    {
+      "id": "5918",
+      "title": "",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "",
+      "publishedDate": "2023-08-05",
+      "summary": "rrr",
+      "author_image": "https://i.pravatar.cc/48?=98fbc7f2-23d8-45ac-807f-83757b6cec1b"
+    },
+    {
+      "id": "76af",
+      "title": "uuu",
+      "author": "oluwatomisin",
+      "author_role": "DevOps Engineer 🚀",
+      "category": "uuuu",
+      "publishedDate": "2023-08-05",
+      "summary": "nnn",
+      "author_image": "https://i.pravatar.cc/48?=35a541b1-f276-47a9-a2ba-35c015220a9c"
+    }
+  ]
+}
