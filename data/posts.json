@@ -151,74 +151,24 @@
       "publishedDate": "2023-09-12"
     },
     {
-      "id": "93ce",
-      "title": "reading",
+      "id": "f398",
+      "title": "React Component Lifecycles Explained 🔍",
       "author": "oluwatomisin",
       "author_role": "DevOps Engineer 🚀",
-      "category": "tech",
+      "category": "Technology",
       "publishedDate": "2023-08-05",
-      "summary": "hello",
-      "author_image": "https://i.pravatar.cc/48?=258b3ef4-2921-423a-9594-fc9c472a7479"
+      "summary": "Learn about the different lifecycle methods of React components and how to use them effectively.",
+      "author_image": "https://i.pravatar.cc/48?=9afa8873-3eb6-46ab-b8cd-2880832cce84"
     },
     {
-      "id": "c8f6",
-      "title": "",
+      "id": "1344",
+      "title": "React Native",
       "author": "oluwatomisin",
       "author_role": "DevOps Engineer 🚀",
-      "category": "",
+      "category": "Technology",
       "publishedDate": "2023-08-05",
-      "summary": "hello",
-      "author_image": "https://i.pravatar.cc/48?=6d6edca0-728b-474a-be4b-3245ce4967ed"
-    },
-    {
-      "id": "e163",
-      "title": "timmmm",
-      "author": "oluwatomisin",
-      "author_role": "DevOps Engineer 🚀",
-      "category": "fff",
-      "publishedDate": "2023-08-05",
-      "summary": "rrr",
-      "author_image": "https://i.pravatar.cc/48?=f9f8a7c6-eeb2-42cb-b280-2595cad33b9e"
-    },
-    {
-      "id": "5b2d",
-      "title": "",
-      "author": "oluwatomisin",
-      "author_role": "DevOps Engineer 🚀",
-      "category": "",
-      "publishedDate": "2023-08-05",
-      "summary": "rrr",
-      "author_image": "https://i.pravatar.cc/48?=09a93d54-24a4-43ac-ba61-212f2781a53e"
-    },
-    {
-      "id": "e112",
-      "title": "",
-      "author": "oluwatomisin",
-      "author_role": "DevOps Engineer 🚀",
-      "category": "",
-      "publishedDate": "2023-08-05",
-      "summary": "rrr",
-      "author_image": "https://i.pravatar.cc/48?=7b2a3c4b-65cb-4ab8-ae99-3c0f47dae801"
-    },
-    {
-      "id": "5918",
-      "title": "",
-      "author": "oluwatomisin",
-      "author_role": "DevOps Engineer 🚀",
-      "category": "",
-      "publishedDate": "2023-08-05",
-      "summary": "rrr",
-      "author_image": "https://i.pravatar.cc/48?=98fbc7f2-23d8-45ac-807f-83757b6cec1b"
-    },
-    {
-      "id": "76af",
-      "title": "uuu",
-      "author": "oluwatomisin",
-      "author_role": "DevOps Engineer 🚀",
-      "category": "uuuu",
-      "publishedDate": "2023-08-05",
-      "summary": "nnn",
-      "author_image": "https://i.pravatar.cc/48?=35a541b1-f276-47a9-a2ba-35c015220a9c"
+      "summary": "Add dynamic effects to your web pages with CSS animations and transitions.",
+      "author_image": "https://i.pravatar.cc/48?=ae0d6b05-1581-42ea-9658-8b17fe93d866"
     }
   ]
 }

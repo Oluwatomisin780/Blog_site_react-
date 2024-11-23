@@ -3,6 +3,7 @@ import BlogList from './BlogList';
 import Search from './Search';
 import { useBlogContext } from '../context/BlogContext';
 import Loader from './Loader';
+import { useNavigate } from 'react-router-dom';
 
 const blogPosts = [
   {
@@ -75,7 +76,7 @@ const blogPosts = [
 
 function BlogItem() {
   const { posts, isLoading } = useBlogContext();
-
+  const navigate = useNavigate();
   return (
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -98,7 +99,13 @@ function BlogItem() {
           )}
         </div>
       </div>
-      {/* Add button here later  */}
+      <button
+        type="submit"
+        className="flex  justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm/6 font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 mt-20  focus-visible:outline-offset-2 focus-visible:outline-indigo-600 mx-auto"
+        onClick={() => navigate('/create-blog')}
+      >
+        Create Blog
+      </button>
     </div>
   );
 }

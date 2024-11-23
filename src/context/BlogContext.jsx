@@ -37,13 +37,13 @@ function reducer(state, action) {
       return {
         ...state,
         isLoading: false,
-
+        search: action.payload,
         posts:
-          action.payload.length > 0
+          state.search !== ''
             ? state.posts.filter((post) =>
                 `${post.title} ${post.category}  ${post.summary}`
                   .toLocaleLowerCase()
-                  .includes(action.payload)
+                  .includes(state.search)
               )
             : state.posts,
       };
