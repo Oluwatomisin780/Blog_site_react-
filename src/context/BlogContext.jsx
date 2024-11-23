@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect } from 'react';
+import { createContext, useContext, useEffect, useState } from 'react';
 import { useReducer } from 'react';
 
 const BlogContext = createContext();
@@ -37,8 +37,9 @@ function reducer(state, action) {
       return {
         ...state,
         isLoading: false,
+
         posts:
-          state.search.length > 0
+          action.payload.length > 0
             ? state.posts.filter((post) =>
                 `${post.title} ${post.category}  ${post.summary}`
                   .toLocaleLowerCase()
