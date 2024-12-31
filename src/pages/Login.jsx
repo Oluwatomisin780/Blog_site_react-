@@ -2,8 +2,10 @@ import React, { useState } from 'react';
 import NavBar from '../components/NavBar';
 
 function Login() {
+  const [email,setEmail]= useState("")
+  const [password,setPassword]= useState("")
   function handleSubmit(e) {
-    e.PreventDefault();
+   // e.preventDefault();
     console.log(email, password);
   }
   return (
